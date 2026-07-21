@@ -14,6 +14,10 @@ https://github.com/Field-of-Dreams-Studio/FDS0/tree/master/Seminar_07-Git_Basics
 
 https://github.com/Field-of-Dreams-Studio/FDS0/tree/master/Seminar_08-GitHub_Cooperation 
 
+---
+
+# Book Chapters
+
 ### Chapter 1. Digital Twins for Reproducible Robot-Arm Experiments
 
 **Core claim:** A deliberately simple but deterministic arm twin can provide the shared,
