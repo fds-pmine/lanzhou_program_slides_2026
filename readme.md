@@ -133,7 +133,7 @@ vision pipelines, and neural state estimation.
 **Required evidence:** frame-graph figure, transform-closure table, pose/time-error plots,
 noise/occlusion sensitivity plot, and downstream rejection table.
 
---
+---
 
 ### Chapter 3. Reliable Binary Protocols for Robotic Actuation
 
@@ -257,7 +257,7 @@ and end-to-end actuator safety.
 **Required evidence:** topic-flow figure, four-timestamp diagram, QoS comparison table,
 RTT/age distribution plot, stale-drop table, and emergency-latency result.
 
---
+---
 
 ### Chapter 5. Nonblocking Multi-Client Robot Control in C
 
@@ -505,7 +505,7 @@ certification, and unsupervised high-speed physical-arm experiments.
 **Required evidence:** hazard-to-gate table, safety-pipeline figure, command-verdict
 matrix, false-rejection result, audit-coverage table, and gate-ablation figure.
 
---
+---
 
 ### Chapter 9. Safely Hosting Learned Controllers in Real-Time Robot Systems
 
@@ -635,7 +635,7 @@ and claiming physical validation when only simulator evidence exists.
 scenario matrix, cumulative latency plot, gate-ablation result, traceability matrix,
 and replay report.
 
---
+---
 
 ## 9. Signature Subsection and Evidence Index
 
@@ -670,7 +670,7 @@ long-form manuscripts.
 Related-work collection continues throughout the course through each evidence pack, but a
 complete literature review and full prose expansion are post-course activities.
 
---
+---
 
 ## 12. Chapter Skeleton Completion Checklist
 
@@ -691,7 +691,7 @@ A chapter skeleton is complete only when all applicable items are present:
 - [ ] Explicit simulator-only boundary unless supervised physical-arm evidence exists
 - [ ] Internal cross-review and review-ring comments
 
---
+---
 
 ## 13. Editorial Consistency Rules
 
